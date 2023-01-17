@@ -33,3 +33,18 @@
 .ms-20{
     margin-left: 20px;
 }
+
+.btn-componente{  
+        width: 266px !important;
+}
+.r-0{
+    right: 0px !important;
+    position: absolute;
+    top: 0px;
+}
+
+@media screen and (max-width: 550px) {
+.dis-none{
+    display: none;
+}
+  }

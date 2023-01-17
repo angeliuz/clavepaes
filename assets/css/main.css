@@ -1169,7 +1169,6 @@ ol {
 
 .button .btn {
   display: inline-block;
-  text-transform: capitalize;
   font-size: 14px;
   font-weight: 500;
   padding: 15px 30px;
@@ -1981,8 +1980,6 @@ ol {
   margin-top: 5px;
   font-size: 25px;
   font-weight: 400;
-
-  text-transform: capitalize;
 }
 
 .hero-content ul {
