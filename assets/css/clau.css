@@ -1,50 +1,58 @@
-.acceder{
+.acceder {
     width: 200px !important;
 }
-.logoclave{
+
+.logoclave {
     width: 170px;
 }
 
-.overflow{
+.overflow {
     overflow: hidden;
 }
-.bg-galleta{
+
+.bg-galleta {
     background-color: #f6f9fc !important;
 }
 
-.cl-icono{
+.cl-icono {
     width: 70px;
 }
-.top-110{
+
+.top-110 {
     top: 110px;
 }
-.right-40{
+
+.right-40 {
     right: 40px;
 }
-#cpechsm{
+
+#cpechsm {
     padding-top: 50px;
     padding-bottom: 50px;
     position: relative;
 }
 
-.me-20{
+.me-20 {
     margin-right: 20px;
 }
-.ms-20{
+
+.ms-20 {
     margin-left: 20px;
 }
 
-.btn-componente{  
-        width: 266px !important;
+.btn-componente {
+    width: 266px !important;
 }
-.r-0{
+
+.r-0 {
     right: 0px !important;
     position: absolute;
     top: 0px;
 }
 
+
 @media screen and (max-width: 550px) {
-.dis-none{
-    display: none;
+    .dis-none {
+        display: none;
+    }
 }
-  }
