@@ -2214,10 +2214,7 @@ ol {
   border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
 }
 
-.services .single-service:hover {
-  background: #f3fde7;
 
-}
 
 .services .single-service:hover .serial span {
   border-color: transparent;
