@@ -58,9 +58,23 @@
     position: absolute;
     top: 0px;
 }
+.end-0{
+    right:0% !important ;
+    
+}
+.top-50{
+    top:50% !important ;
+    
+}
+.top-135{
+    top: 135px !important;;
+}
+.right--25{
+    right: -25px !important;
+}
 
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 800px) {
     .dis-none {
         display: none;
     }
