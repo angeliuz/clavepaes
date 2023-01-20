@@ -73,9 +73,45 @@
     right: -25px !important;
 }
 
+.header .button-mobile .btn {
+    color: #4353ff;
+    padding: 12px 25px;
+    display: none;
+    overflow: hidden;
+    position: relative;
+    z-index: 2;
+    background: #fff;
+    border: 1px solid #F4EEFB;
+    font-size: 14px;
+    font-weight: 500;
+    box-shadow: none;
+    padding: 13px 10px;
+    transition: 0.5s;
+    border-radius: 50px;
+    margin-left: 38px;
+  }
+  
+  .header .button-mobile .btn:hover {
+    color: #fff;
+    background-color: #4353ff;
+    border-color: transparent;
+  }
+
+  @media screen and (max-width: 991px) {
+    .header .button-mobile .btn {
+        display: inline-block;
+    }
+}
+
 
 @media screen and (max-width: 800px) {
     .dis-none {
         display: none;
+    }
+}
+
+@media all and (max-width: 767px) {
+    .hero-content {
+        margin-top: 100px;
     }
 }

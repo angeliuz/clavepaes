@@ -1172,7 +1172,7 @@ ol {
   font-size: 14px;
   font-weight: 500;
   padding: 15px 30px;
-  background-color: #4353ff;
+  background-color: #3b86f8;
   color: #fff;
   border: none;
   -webkit-transition: 0.5s;
@@ -1752,13 +1752,13 @@ ol {
 }
 
 .header .button .btn {
-  color: #4353ff;
+  color: #fff;
   padding: 12px 25px;
   display: inline-block;
   overflow: hidden;
   position: relative;
   z-index: 2;
-  background: #fff;
+  background: #3b86f8;
   border: 1px solid #F4EEFB;
   font-size: 14px;
   font-weight: 500;
@@ -1768,7 +1768,7 @@ ol {
 
 .header .button .btn:hover {
   color: #fff;
-  background-color: #4353ff;
+  background-color: #081828;
   border-color: transparent;
 }
 
