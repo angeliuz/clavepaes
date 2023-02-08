@@ -1417,6 +1417,7 @@ ol {
   transition: all 0.3s ease-out 0s;
   background-color: #fff;
   position: absolute;
+  box-shadow: 10px 5px 5px #00000014;
 }
 
 .header.index2 .navbar-area {
@@ -1920,8 +1921,10 @@ ol {
 
 .hero-area {
   height: 700px;
-  background-image: url(../images/fotos/fondo2.jpg);
+  background-image: url(../images/fotos/fondopaes.png);
   background-repeat: no-repeat;
+  background-size: fixed;
+  background-position: center;
 
 }
 
@@ -1953,7 +1956,7 @@ ol {
 }
 
 .hero-content {
-  margin-top: 207px;
+  margin-top: 164px;
   display: block;
   display: inline-block;
   position: relative;
