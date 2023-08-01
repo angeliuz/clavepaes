@@ -1,0 +1,143 @@
+/* temporal */
+body {
+    font-family: Dosis;
+    background: #f1f3f6;
+}
+
+/*  temporal */
+/* para paes custom */
+.bg-white {
+    background-color: #fff;
+}
+
+.br-16 {
+    border-radius: 16px;
+}
+
+.br-t-16 {
+    border-radius: 16px 16px 0px 0px;
+}
+
+.br-l-16 {
+    border-radius: 16px 0px 0px 16px;
+}
+
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.p-20 {
+    padding: 20px;
+}
+
+.py-20 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.object-fit {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+
+.p-left-0 {
+    padding-left: 0px;
+}
+
+.p-right-0 {
+    padding-right: 0px;
+}
+
+.shadow {
+    box-shadow: 0px 2px 5px 5px rgba(148, 148, 148, 0.162);
+}
+
+/* para paes custom */
+.mx-270 {
+    max-width: 270px;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.align-items-end {
+    align-items: end;
+}
+
+.b-red {
+    background-color: darkred;
+}
+
+.mh-110 {
+    min-height: 110px;
+}
+
+.gt {
+    margin: auto auto 20px;
+    max-width: 79px;
+    width: 100%;
+}
+.p-lr-20{
+    padding: 0px 20px 0px 20px;
+}
+.mt-60{
+    margin-top: 60px;
+}
+
+.bg-melody{
+    background-color: #FAFAFA;
+}
+.bg-kitty{
+    background-color: #E4E1EB;
+}
+.mw-120{
+    max-width: 120px;
+}
+
+.mt-n-12{
+    margin-top: -12px;
+}
+.p-7-15{
+    padding: 7px 15px 15px 15px;
+}
+
+@media all and (max-width: 768px) {
+    .br-l-16 {
+        border-radius: 16px 16px 0 0;
+    }
+
+    .custom-flex-column {
+        flex-direction: column;
+    }
+
+    .custom-height {
+        height: 200px !important;
+    }
+
+    .mb-20{
+        margin-bottom: 20px;
+    }
+    .top-15 {
+        margin-top: 15px !important;
+    }
+    
+}
+
+@media all and (max-width: 1999px) {
+
+    .top-15 {
+        margin-top: 15px !important;
+    }
+    .mb-20{
+        margin-bottom: 20px;
+    }
+    
+}
